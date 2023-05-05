@@ -1,0 +1,22 @@
+{
+  "name": "project-dev-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass scss/pages/home.scss css/main.css "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quintech-mx/project-dev-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quintech-mx/project-dev-2/issues"
+  },
+  "homepage": "https://github.com/quintech-mx/project-dev-2#readme",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
