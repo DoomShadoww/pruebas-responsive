@@ -1,0 +1,46 @@
+body{
+    font-family: "Poppins", sans-serif;
+}
+
+
+
+.about__section{
+    background-color: #ffffff;
+    
+}
+
+.about__section--greenText{
+    padding-bottom: 0.938rem;
+    color: #01CD75;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.about__section--textSection{
+   text-align: left;
+}
+
+
+.about__section--mainText{
+    line-height: 1.5;
+    font-size: 1.875;
+    padding-bottom: 20px;
+    font-weight: 600;
+}
+
+.about__section--secondaryText{
+    font-weight: 500;
+    font-size: 1rem;
+    line-height: 1.5;
+  
+}
+
+ 
+
+
+@media (max-width: 600px) and (orientation: landscape) {
+    /* Estilos específicos para pantallas con ancho de 600px o menos y orientación apaisada */
+   
+    
+  }
+  
